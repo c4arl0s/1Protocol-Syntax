@@ -1,4 +1,4 @@
-# 1Protocol-Syntax
+# [1. Protocol-Syntax]()
 
 You define protocols in a very similar way to classes, structures, and enumerations:
 
